@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+	gem 'selenium-webdriver', '~> 3.142', '>= 3.142.7'
+	gem 'rspec', '~> 3.9'
+	gem 'childprocess', '~> 3.0'
+	gem 'ffi', '~> 1.12', '>= 1.12.2'
